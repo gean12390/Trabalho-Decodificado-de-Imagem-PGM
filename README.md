@@ -8,13 +8,13 @@
   Grupo Composto por:
   <br><br>
   <strong>
-  • Giovanni Pascuotte da Silva
+  • Giovanni Pascuotte da Silva : https://github.com/gean12390
     <br>
   • Eduardo de Oliveira Castellani : https://github.com/Castellani21
     <br>
   • Matheus Felipe Pirondi : https://github.com/mpirondi
     <br>
-  • João Pedro de Almeida e Silva
+  • João Pedro de Almeida e Silva : https://github.com/Jotaz11n
     <br>
   </strong>
 
