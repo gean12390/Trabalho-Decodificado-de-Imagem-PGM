@@ -10,7 +10,7 @@
   <strong>
   • Giovanni Pascuotte da Silva
     <br>
-  • Eduardo de Oliveira Castellani
+  • Eduardo de Oliveira Castellani : https://github.com/Castellani21
     <br>
   • Matheus Felipe Pirondi
     <br>
