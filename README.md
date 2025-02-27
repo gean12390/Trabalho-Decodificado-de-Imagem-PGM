@@ -1,17 +1,15 @@
 # Trabalho-Decodificado-de-Imagem-PGM
-
 <p>
   Grupo Composto por:
-##
-  
+  <br><br>
   <strong>
-  Giovanni Pascuotte da Silva
+  • Giovanni Pascuotte da Silva
     <br>
-  Eduardo de Oliveira Castellani
+  • Eduardo de Oliveira Castellani
     <br>
-  Matheus Felipe Pirondi
+  • Matheus Felipe Pirondi
     <br>
-  João Pedro de Almeida e Silva
+  • João Pedro de Almeida e Silva
     <br>
   </strong>
 </p>
