@@ -4,21 +4,19 @@
   <br>
   Professor: Buno Monserrat Perillo
   <hr>
-<p>
+
   Grupo Composto por:
   <br><br>
-  <strong>
-  • Giovanni Pascuotte da Silva : https://github.com/gean12390
+  • [Giovanni Pascuotte da Silva](https://github.com/gean12390)
     <br>
-  • Eduardo de Oliveira Castellani : https://github.com/Castellani21
+  • [Eduardo de Oliveira Castellani](https://github.com/Castellani21)
     <br>
-  • Matheus Felipe Pirondi : https://github.com/mpirondi
+  • [Matheus Felipe Pirondi](https://github.com/mpirondi)
     <br>
-  • João Pedro de Almeida e Silva : https://github.com/Jotaz11n
+  • [João Pedro de Almeida e Silva](https://github.com/Jotaz11n)
     <br>
-  </strong>
 
-</p>
+
 <hr>
 <p><strong>i.</strong> O filtro de mediana é essencial no processamento de imagens, especialmente para reduzir o ruído, sem prejudicar as bordas da imagem. Ele é eficaz na preservação de detalhes enquanto remove distorções, sendo amplamente utilizado em áreas como visão computacional e imagens médicas.
 
