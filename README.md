@@ -1,14 +1,21 @@
 # Trabalho-Decodificado-de-Imagem-PGM
 
 <p>
+  Grupo Composto por:
+##
+  
   <strong>
   Giovanni Pascuotte da Silva
+    <br>
   Eduardo de Oliveira Castellani
+    <br>
   Matheus Felipe Pirondi
+    <br>
   João Pedro de Almeida e Silva
+    <br>
   </strong>
 </p>
-
+<hr>
 <p><strong>i.</strong> Introdução ao problema e a importância do filtro de mediana
 O filtro de mediana é essencial no processamento de imagens, especialmente para reduzir o ruído, sem prejudicar as bordas da imagem. Ele é eficaz na preservação de detalhes enquanto remove distorções, sendo amplamente utilizado em áreas como visão computacional e imagens médicas.
 
