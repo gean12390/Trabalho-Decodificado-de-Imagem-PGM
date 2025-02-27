@@ -12,7 +12,7 @@
     <br>
   • Eduardo de Oliveira Castellani : https://github.com/Castellani21
     <br>
-  • Matheus Felipe Pirondi
+  • Matheus Felipe Pirondi : https://github.com/mpirondi
     <br>
   • João Pedro de Almeida e Silva
     <br>
