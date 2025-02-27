@@ -1,9 +1,9 @@
 # Trabalho-Decodificado-de-Imagem-PGM
-  <hr>
-  <strong>Materia</strong> : Algoritmos e Estruturas de Dados III
-  <br>
+  ***
+  <strong>Materia</strong> : Algoritmos e Estruturas de Dados III  
+  
   <strong>Professor</strong> : Buno Monserrat Perillo
-  <hr>
+  ***
 
 <p><strong>i.</strong> O filtro de mediana é essencial no processamento de imagens, especialmente para reduzir o ruído, sem prejudicar as bordas da imagem. Ele é eficaz na preservação de detalhes enquanto remove distorções, sendo amplamente utilizado em áreas como visão computacional e imagens médicas.
 
@@ -13,9 +13,8 @@
 
 <strong>iv.</strong> Os principais desafios foram a mudança da linguagem Java para a linguagem C, que envolveu o uso de ponteiros e conceitos que ainda não tínhamos aprendido, como a implementação do filtro de mediana. Outro desafio foi trabalhar com arquivos PGM, pois não estávamos acostumados com esse formato. Além disso, enfrentamos dificuldades ao tentar abrir, editar e salvar os arquivos, pois não sabíamos como realizar corretamente a manipulação de arquivos.</p>
 
-<hr>
-
-  Grupo Composto por:
+***
+<strong>Desenvolvedores:</strong>  
 
 | [<img src="https://avatars.githubusercontent.com/u/100391366?v=4" width=115><br><sub>Giovanni Pascuotte da Silva</sub>](https://github.com/gean12390) | [<img src="https://avatars.githubusercontent.com/u/169916563?v=4" width=115><br><sub>Eduardo de Oliveira Castellani</sub>](https://github.com/Castellani21) | [<img src="https://avatars.githubusercontent.com/u/165100067?v=4" width=115><br><sub>Matheus Felipe Pirondi</sub>](https://github.com/mpirondi) | [<img src="https://avatars.githubusercontent.com/u/200692715?v=4" width=115><br><sub>João Pedro de Almeida e Silva</sub>](https://github.com/Jotaz11n) |
 | :---: | :---: | :---: |:---: |
